@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+Name: Loo Jia Jun, Edmund
+Email: 2073958G@STUDENT.TP.EDU.SG
 
-You can use the [editor on GitHub](https://github.com/halcyoned/edmund-webassessment/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+What did you like about this project?
+It was very challenging. Most dimensions were also given, making it easy to enter exact px values for said dimensions.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+What did you struggle with in this project?
+Getting the flexboxes to align and margins to display properly. Getting the images to size and tile properly.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/halcyoned/edmund-webassessment/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+What would make your experience with this assessment better?
+It would be better if we were given the:
+a) color values for text and backgrounds
+b) font-sizes for text
+c) font-family to use
